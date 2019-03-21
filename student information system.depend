@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1553144141 source:e:\student information system\student information system\main.c
+	<stdio.h>
+	<conio.h>
+	"header.h"
+
+1553140620 e:\student information system\student information system\menu.c
+	<stdio.h>
+
+1553143522 source:e:\student information system\student information system\menu.c
+	<stdio.h>
+
+1553144141 e:\student information system\student information system\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1553144309 source:e:\student information system\student information system\profile.c
+	<stdio.h>
+	"header.h"
+
