@@ -2,6 +2,7 @@
 #include <stdlib.h>
 void menu();
 void profile();
+void view_profile();
 struct student
 {
     char name[21];

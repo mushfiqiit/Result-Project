@@ -18,3 +18,24 @@
 	<stdio.h>
 	"header.h"
 
+1553965160 source:c:\work\c projects\big project\result-project-master\main.c
+	<stdio.h>
+	<conio.h>
+	"header.h"
+
+1556167399 c:\work\c projects\big project\result-project-master\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1556167652 source:c:\work\c projects\big project\result-project-master\menu.c
+	<stdio.h>
+	<conio.h>
+
+1556167399 source:c:\work\c projects\big project\result-project-master\profile.c
+	<stdio.h>
+	"header.h"
+
+1556167399 source:c:\work\c projects\big project\result-project-master\view profile.c
+	<stdio.h>
+	"header.h"
+
