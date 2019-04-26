@@ -10,3 +10,5 @@ struct student
     char roll[9];
     int regno;
 };
+
+struct student inf[4][2];

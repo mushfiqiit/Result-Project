@@ -23,7 +23,7 @@
 	<conio.h>
 	"header.h"
 
-1556167399 c:\work\c projects\big project\result-project-master\header.h
+1556257827 c:\work\c projects\big project\result-project-master\header.h
 	<stdio.h>
 	<stdlib.h>
 
@@ -31,11 +31,11 @@
 	<stdio.h>
 	<conio.h>
 
-1556167399 source:c:\work\c projects\big project\result-project-master\profile.c
+1556258116 source:c:\work\c projects\big project\result-project-master\profile.c
 	<stdio.h>
 	"header.h"
 
-1556167399 source:c:\work\c projects\big project\result-project-master\view profile.c
+1556253721 source:c:\work\c projects\big project\result-project-master\view profile.c
 	<stdio.h>
 	"header.h"
 
