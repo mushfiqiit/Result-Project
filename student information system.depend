@@ -23,19 +23,24 @@
 	<conio.h>
 	"header.h"
 
-1556257827 c:\work\c projects\big project\result-project-master\header.h
+1556339146 c:\work\c projects\big project\result-project-master\header.h
 	<stdio.h>
 	<stdlib.h>
 
-1556167652 source:c:\work\c projects\big project\result-project-master\menu.c
+1556300940 source:c:\work\c projects\big project\result-project-master\menu.c
 	<stdio.h>
 	<conio.h>
 
-1556258116 source:c:\work\c projects\big project\result-project-master\profile.c
+1556276671 source:c:\work\c projects\big project\result-project-master\profile.c
 	<stdio.h>
 	"header.h"
 
-1556253721 source:c:\work\c projects\big project\result-project-master\view profile.c
+1556261636 source:c:\work\c projects\big project\result-project-master\view profile.c
 	<stdio.h>
 	"header.h"
+
+1556338147 source:c:\work\c projects\big project\result-project-master\input result.c
+	<stdio.h>
+	"header.h"
+	<string.h>
 

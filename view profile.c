@@ -17,7 +17,7 @@ void view_profile()
 
     for(i=0;i<4;i++)
     {
-        printf("For year %d",i+1);
+        printf("For year %d \n ",i+1);
         for(j=0;j<2;j++)
         {
         fgets(inf[i][j].name,sizeof(inf[i][j].name),fp);

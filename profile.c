@@ -12,6 +12,7 @@ void profile()
     }
     for(i=0;i<4;i++)
     {
+        printf("For students of year %d:\n",i+1);
         for(j=0;j<2;j++)
         {
         printf("Enter name:");

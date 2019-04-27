@@ -5,10 +5,11 @@ void menu()
     char ch;
     for(;;)
     {
-    printf("Enter your choice:\n");
-    printf("For profiling press p\n");
-    printf("To view saved student profile press v \n");
-    printf("Press q to quit");
+    printf(" Enter your choice:\n\n");
+    printf(" # For profiling press p\n\n");
+    printf(" # To view saved student profile press v \n\n");
+    printf(" # To input student result press i \n\n");
+    printf(" # Press q to quit");
     printf("\n");
     ch = getche();
     printf("\n");
@@ -24,6 +25,10 @@ void menu()
     {
         printf("Glad to be at your service");
         exit(0);
+    }
+    else if(ch=='i')
+    {
+        input_result();
     }
     else
     {
