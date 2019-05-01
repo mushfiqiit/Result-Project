@@ -9,6 +9,7 @@ void menu()
     printf(" # For profiling press p\n\n");
     printf(" # To view saved student profile press v \n\n");
     printf(" # To input student result press i \n\n");
+    printf(" # To search result press s");
     printf(" # Press q to quit");
     printf("\n");
     ch = getche();
@@ -29,6 +30,11 @@ void menu()
     else if(ch=='i')
     {
         input_result();
+    }
+
+    else if(ch=='s')
+    {
+        sear();
     }
     else
     {

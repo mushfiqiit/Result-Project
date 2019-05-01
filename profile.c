@@ -25,11 +25,11 @@ void profile()
 
         printf("Enter roll:");
         fgets(inf[i][j].roll,9,stdin);
-        fprintf(fp,"%s \n",inf[i][j].roll);
+        fprintf(fp,"%s\n",inf[i][j].roll);
 
         printf("Enter registration number:");
         scanf("%d",&inf[i][j].regno);
-        fprintf(fp,"%d \n",inf[i][j].regno);
+        fprintf(fp,"%d\n",inf[i][j].regno);
 
         getchar();
 

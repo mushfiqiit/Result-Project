@@ -5,7 +5,7 @@ void view_profile()
     int i,j;
     FILE * fp;
     char ch;
-    printf("Enter semster");
+
     fp = fopen("myfile.txt","r");
 
     if(fp==NULL)
@@ -17,7 +17,7 @@ void view_profile()
 
     for(i=0;i<4;i++)
     {
-        printf("For year %d \n ",i+1);
+        printf("For year %d \n",i+1);
         for(j=0;j<2;j++)
         {
         fgets(inf[i][j].name,sizeof(inf[i][j].name),fp);

@@ -18,29 +18,40 @@
 	<stdio.h>
 	"header.h"
 
-1553965160 source:c:\work\c projects\big project\result-project-master\main.c
+1556731155 source:c:\work\c projects\big project\result-project-master\main.c
 	<stdio.h>
 	<conio.h>
 	"header.h"
+	<string.h>
 
-1556339146 c:\work\c projects\big project\result-project-master\header.h
+1556725781 c:\work\c projects\big project\result-project-master\header.h
 	<stdio.h>
 	<stdlib.h>
 
-1556300940 source:c:\work\c projects\big project\result-project-master\menu.c
+1556699646 source:c:\work\c projects\big project\result-project-master\menu.c
 	<stdio.h>
 	<conio.h>
 
-1556276671 source:c:\work\c projects\big project\result-project-master\profile.c
+1556727768 source:c:\work\c projects\big project\result-project-master\profile.c
 	<stdio.h>
 	"header.h"
 
-1556261636 source:c:\work\c projects\big project\result-project-master\view profile.c
+1556726195 source:c:\work\c projects\big project\result-project-master\view profile.c
 	<stdio.h>
 	"header.h"
 
-1556338147 source:c:\work\c projects\big project\result-project-master\input result.c
+1556703485 source:c:\work\c projects\big project\result-project-master\input result.c
 	<stdio.h>
 	"header.h"
 	<string.h>
+
+1556737372 source:c:\work\c projects\big project\result-project-master\search(1).c
+	<stdio.h>
+	"header.h"
+	<string.h>
+
+1556687902 source:c:\work\c projects\big project\result-project-master\search.c
+	<stdio.h>
+	"header.h"
+	<conio.h>
 
